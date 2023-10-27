@@ -1,2 +1,2 @@
-# kropp-fitness
-Адаптивная верстка сайта по макету для [YouTube-канала|https://www.youtube.com/@AleksanderLamkov]
+t# kropp-fitness
+Адаптивная верстка сайта по макету для [YouTube-канала](https://www.youtube.com/@AleksanderLamkov)
